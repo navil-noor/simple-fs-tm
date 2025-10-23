@@ -33,7 +33,7 @@ You must have **Node.js** (which includes npm) and a **Git** client installed on
 1.  **Clone the repository:**
 
     ```bash
-    git clone [YOUR_REPO_URL_HERE]
+    git clone https://github.com/navil-noor/simple-fs-tm.git
     cd simple-fs-tm
     ```
 
